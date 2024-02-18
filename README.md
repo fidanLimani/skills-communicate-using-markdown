@@ -6,8 +6,10 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+![myImage](https://github.com/fidanLimani/skills-communicate-using-markdown/assets/11243926/4d3b8dbf-c403-4560-8cca-16be6c1e22b5)
 
 # Communicate using Markdown
+Description: **Include an **image** of 1280 by 640 pixels**.
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
